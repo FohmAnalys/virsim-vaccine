@@ -3,6 +3,8 @@ VirSim is a compartmental SEIR (Susceptible, Exposed, Infected, Recovered) model
 
 The model is based on the model used in [Scenarier för fortsatt spridning – delrapport 6](https://www.folkhalsomyndigheten.se/publicerat-material/publikationsarkiv/s/scenarier-for-fortsatt-spridning-delrapport-6/). The uploaded model corrects a few bugs that was detected after publication.
 
+Visit [AnyLogic Cloud](https://cloud.anylogic.com/model/f5de74f0-f11a-47ac-b041-74c60777fff3) to run the model without installing Anylogic.
+
 ## Requirements
 VirSim is developed in the software [AnyLogic](https://www.anylogic.com/), and version 8.7.8 or later is required to run the model.
 
